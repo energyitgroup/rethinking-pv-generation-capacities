@@ -6,7 +6,7 @@ The scripts support system orientation comparison, threshold-based analysis, and
 
 The scripts in this repository form a workflow from data retrieval → aggregation → comparison → visualization.
 They are designed for reproducible solar energy performance analysis, especially focusing on east/west orientation, monthly trends, and GSA data validation.Script Flow
----
+
 ### 1. api_utrecht.py
 **Purpose:**  
 Fetch and generate hourly PV production data for all PV units in Utrecht using the Global Solar Atlas (GSA) API and system metadata.
